@@ -1,3 +1,17 @@
 body {
 	background-color: grey;
 }
+
+div.main {
+	width: 95%;
+	margin: 0 2.5% 0 2.5%;
+	background-color: violet;
+}
+div.main:first-child {
+	padding: 20px;
+}
+
+img.perfil {
+	height: 300px;
+	width: 300px;
+}
